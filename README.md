@@ -25,7 +25,7 @@ A virtual whiteboard powered by **OpenCV** and **MediaPipe**, enabling users to 
 ```bash
 git clone https://github.com/NagarajNaik17/digital-board.git
 cd digital-board
-
+```
 
 ### 2. Install Dependencies
 
@@ -51,9 +51,9 @@ python smart_board.py
 |--------------------|------------------------------|
 | 1 finger (index)   | Draw                         |
 | 3 fingers          | Switch tool (cycle pens/eraser) |
-| 5 fingers          | Set tool to eraser           |
-| 4 fingers          | Increase brush size          |
-| 2 fingers          | Decrease brush size          |
+| 5 fingers          | Increase brush size           |
+| 4 fingers          | Descrease brush size          |
+| 2 fingers          | change position without writing          |
 
 ---
 
