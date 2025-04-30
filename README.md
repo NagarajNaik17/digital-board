@@ -81,6 +81,10 @@ digital-board/
 
 ---
 
+## 🔮 Output
+![image](https://github.com/user-attachments/assets/103ccd64-c709-47bd-80d4-605922586f04)
+
+
 ## 🔮 Future Plans
 
 - 🧠 Add gesture recognition for shape drawing (e.g., circles, rectangles)
